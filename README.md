@@ -24,6 +24,9 @@ python azhar_general_score_converter.py
 Choose: 1
 Enter Azhar Score: 450
 
+## Screenshot
+
+![Program Screenshot](Screenshot_2026-07-18_01-02-40.png)
 Equivalent General Score = 247.06
 ```
 
